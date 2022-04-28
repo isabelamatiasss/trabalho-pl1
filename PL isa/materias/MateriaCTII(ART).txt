@@ -1,0 +1,13 @@
+<html>
+ <head>
+ <title>ARTES</title>
+
+<body>
+<font face="Arial">
+<font color="black"
+<li>INT.01485 (ART-1) - Artes - Médio [57.00 h/76 Aulas]
+<li>Professor:Rita de Cassia Demarchi
+
+</body>
+
+</html>

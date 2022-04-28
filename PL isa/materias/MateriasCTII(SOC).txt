@@ -1,0 +1,12 @@
+<html>
+ <head>
+ <title>Sociologia</title>
+
+<body>
+<font face="Arial">
+<font color="black"
+<li>INT.01494 (SOC-1) - Sociologia - Médio [28.50 h/38 Aulas]
+<li>Professor:Daniella Georges Coulouris
+
+</body>
+</html>

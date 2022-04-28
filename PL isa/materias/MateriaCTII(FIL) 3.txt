@@ -1,0 +1,13 @@
+<html>
+ <head>
+ <title>FILOSOFIA</title>
+
+<body>
+<font face="Arial">
+<font color="black"
+<li>INT.01489 (FIL-1) - Filosofia - Médio [28.50 h/38 Aulas]
+<li>Professor:Jairo Augusto dos Santos
+
+</html>
+
+</body>
